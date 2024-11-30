@@ -22,6 +22,6 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for c
 
 - I'm always looking to learn new technologies and improve my skills.
 - I enjoy coding in my free time and contributing to open-source projects.
-- When I'm not coding, I enjoy listening music, playing games.
+- When I'm not coding I enjoy listening music, playing games.
 
 Thanks for visiting my profile! Feel free to check out my repositories and open an issue or contribute to any of my projects.
