@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for c
 
 ## 📫 How to Reach Me
 
-- **Email:** rohithsai504@gmail.com
+- **Email:** rohithsai504@gmail.com,sairohith10@outlook.com
 -
 ## 💻 Some Fun Facts
 
