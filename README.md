@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for c
 - **Frameworks/Libraries:** Spring Boot, React.js, Thymeleaf
 - **Databases:**  MySQL
 - **Version Control:** Git, GitHub
-- **Other Tools:** Maven, Webpack, Docker,
 
 ## 🚀 Projects I'm Working On
 
